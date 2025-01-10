@@ -1,6 +1,7 @@
 # Dog-Breed-Classification
 
 ######################## DATA #############################
+
 --> The data used is the one in this link: 
     https://www.kaggle.com/competitions/dog-breed-identification/data
 
@@ -10,6 +11,7 @@
 
 
 ######################## CODE #############################
+
 The code is defined in DBC_Code.ipynb.
 
   --> The only changes to be made are the ones related to the path. 
